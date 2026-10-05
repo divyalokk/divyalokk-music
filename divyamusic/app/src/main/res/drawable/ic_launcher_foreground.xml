@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Background circle -->
+
+    <!-- Music note -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M300,105
+        L300,315
+        C300,350 275,375 240,375
+        C205,375 180,355 180,325
+        C180,292 207,270 242,270
+        C255,270 267,273 278,279
+        L278,155
+        L365,135
+        L365,180
+        L300,195
+        Z" />
+
+</vector>
